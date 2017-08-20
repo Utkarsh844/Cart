@@ -18,7 +18,7 @@ var speed = 5000
 var Pic = new Array() // don't touch this
 // to add more images, just continue
 // the pattern, adding to the array below
-Pic[0] = '1jpg'
+Pic[0] = '1.jpg'
 Pic[1] = '2.jpg'
 Pic[2] = '3.jpg'
 // =======================================
